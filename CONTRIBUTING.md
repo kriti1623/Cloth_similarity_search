@@ -29,4 +29,4 @@ Please help us keep our issue list small by adding fixes: #{$ISSUE_NO} to the co
 
 
 
-Writer [@shashank1623](https://github.com/shashank1623), May 2023.
+Writer [@kriti1623](https://github.com/kriti1623/), May 2023.
