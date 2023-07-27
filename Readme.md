@@ -27,10 +27,8 @@ The solution involves the following steps:
    - The function is accepting a JSON payload with the input text and return a JSON response with the ranked list of similar item URLs.
 
 
-video_link : https://youtu.be/EUFEDruCOvM
-
 I usally love feebacks and suggestion 
-Contact Us:- shashankbhardwaj2030@gmai.com (Hope this repo found it usefull to you then please give a star to this repo).
+Contact Us:- kritichauhan2507@gmai.com (Hope this repo found it usefull to you then please give a star to this repo).
 
 If you want to contribute to this project feel free to contact me or just genrate a issue .
 Note : There is a lot of potential in this project in future we will adding more data and other properties to suggest more accurately .
