@@ -33,5 +33,4 @@ Contact Us:- kritichauhan2507@gmai.com (Hope this repo found it usefull to you t
 If you want to contribute to this project feel free to contact me or just genrate a issue .
 Note : There is a lot of potential in this project in future we will adding more data and other properties to suggest more accurately .
 
-Thanks
-❤️❤️❤️ shashank Bhardwaj(the_ghost) ❤️❤️❤️❤️
+
